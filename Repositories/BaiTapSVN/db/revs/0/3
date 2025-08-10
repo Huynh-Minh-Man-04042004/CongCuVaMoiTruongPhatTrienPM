@@ -1,0 +1,78 @@
+DELTA
+SVNENDREP
+id: 2-3.0-2.r3/17
+type: file
+count: 0
+text: 3 0 4 0 d41d8cd98f00b204e9800998ecf8427e da39a3ee5e6b4b0d3255bfef95601890afd80709 2-2/_4
+cpath: /branches/feature_branch/test.txt
+copyroot: 2 /branches/feature_branch
+
+PLAIN
+K 8
+branches
+V 14
+dir 2-1.0.r1/0
+K 4
+tags
+V 15
+dir 3-1.0.r1/66
+K 8
+test.txt
+V 18
+file 2-3.0-2.r3/17
+K 5
+trunk
+V 16
+dir 0-1.0.r1/129
+END
+ENDREP
+id: 0.0-2.r3/378
+type: dir
+pred: 0.0-2.r2/0
+count: 3
+text: 3 229 136 136 1d17c73f039a570157cf414330e1cfac - -
+cpath: /branches/feature_branch
+copyroot: 2 /branches/feature_branch
+
+PLAIN
+K 14
+feature_branch
+V 16
+dir 0.0-2.r3/378
+END
+ENDREP
+id: 2-1.0.r3/617
+type: dir
+pred: 2-1.0.r2/210
+count: 2
+text: 3 558 46 46 a064a2f3f61c5abbf8b7b27e4f6fd14a - -
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 16
+dir 2-1.0.r3/617
+K 4
+tags
+V 15
+dir 3-1.0.r1/66
+K 5
+trunk
+V 16
+dir 0-1.0.r1/129
+END
+ENDREP
+id: 0.0.r3/873
+type: dir
+pred: 0.0.r2/464
+count: 3
+text: 3 759 101 101 2f26b3616332ff514f77e951316bbbc7 - -
+cpath: /
+copyroot: 0 /
+
+_2.0-2.t2-2 add-file true false false /branches/feature_branch/test.txt
+
+
+873 1005

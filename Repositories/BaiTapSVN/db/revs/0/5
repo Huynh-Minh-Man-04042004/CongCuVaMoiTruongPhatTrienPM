@@ -1,0 +1,30 @@
+PLAIN
+K 8
+branches
+V 15
+dir 2-1.0.r4/17
+K 4
+tags
+V 15
+dir 3-1.0.r1/66
+K 5
+trunk
+V 16
+dir 0-1.0.r1/129
+END
+ENDREP
+id: 0.0.r5/113
+type: dir
+pred: 0.0.r4/593
+count: 5
+text: 5 0 100 100 560c7e74c62ddd476a59a34b9b37fa76 - -
+props: 4 523 57 57 5226e9312d3263a00dd8aa4d03c7bbcf - 3-3/_3
+cpath: /
+copyroot: 0 /
+minfo-cnt: 1
+minfo-here: y
+
+2-3.0-4.r4/154 delete-file false false false /test.txt
+
+
+113 331

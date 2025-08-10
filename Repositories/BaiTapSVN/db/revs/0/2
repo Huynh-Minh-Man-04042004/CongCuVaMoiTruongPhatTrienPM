@@ -1,0 +1,50 @@
+id: 0.0-2.r2/0
+type: dir
+pred: 0.0.r1/306
+count: 2
+text: 1 194 99 99 d04b076ba4214c40aef38ba3311ccaf3 - -
+cpath: /branches/feature_branch
+copyfrom: 1 /
+
+PLAIN
+K 14
+feature_branch
+V 14
+dir 0.0-2.r2/0
+END
+ENDREP
+id: 2-1.0.r2/210
+type: dir
+pred: 2-1.0.r1/0
+count: 1
+text: 2 153 44 44 f1b0c6ac77296ed791b36431aea52a9a - -
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 16
+dir 2-1.0.r2/210
+K 4
+tags
+V 15
+dir 3-1.0.r1/66
+K 5
+trunk
+V 16
+dir 0-1.0.r1/129
+END
+ENDREP
+id: 0.0.r2/464
+type: dir
+pred: 0.0.r1/306
+count: 2
+text: 2 350 101 101 44af68220a667146d32078d0a7a7666f - -
+cpath: /
+copyroot: 0 /
+
+0._0.t1-1 add-dir false false false /branches/feature_branch
+1 /
+
+464 596

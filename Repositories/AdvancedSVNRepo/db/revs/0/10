@@ -1,0 +1,63 @@
+id: 1-4.0.r10/0
+type: file
+pred: 1-4.0.r4/732
+count: 1
+text: 9 0 22 1064 226ca9eda15666eb211ff7b2732d10ac 7b5c2ad7769b2a22a46cbe2cb3aad5bf472cb71c 9-9/_3
+cpath: /trunk/Ch2_BT1.cs
+copyroot: 0 /
+
+PLAIN
+K 10
+Ch2_BT1.cs
+V 16
+file 1-4.0.r10/0
+END
+ENDREP
+PLAIN
+K 13
+svn:mergeinfo
+V 28
+/branches/feature-update:5-9
+END
+ENDREP
+id: 0-1.0.r10/319
+type: dir
+pred: 0-1.0.r4/965
+count: 2
+text: 10 194 42 42 3ea34a04cf16348a2d64ffc9acdda73f - -
+props: 10 249 57 57 899cfd8119aef9b1fde9fc565d254b11 - 9-9/_4
+cpath: /trunk
+copyroot: 0 /
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 8
+branches
+V 16
+dir 2-1.0.r9/740
+K 4
+tags
+V 16
+dir 3-1.0.r7/213
+K 5
+trunk
+V 17
+dir 0-1.0.r10/319
+END
+ENDREP
+id: 0.0.r10/665
+type: dir
+pred: 0.0.r9/1010
+count: 10
+text: 10 549 103 103 90eb37df5fd15be21784894c23e22d98 - -
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+0-1.0.t9-9 modify-dir false true true /trunk
+
+1-4.0.t9-9 modify-file true false false /trunk/Ch2_BT1.cs
+
+
+665 814

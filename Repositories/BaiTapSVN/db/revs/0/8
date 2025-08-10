@@ -1,0 +1,72 @@
+PLAIN
+K 8
+branches
+V 15
+dir 2-1.0.r4/17
+K 4
+tags
+V 15
+dir 3-1.0.r1/66
+K 5
+trunk
+V 16
+dir 0-1.0.r1/129
+END
+ENDREP
+id: 0.0-6.r8/113
+type: dir
+pred: 0.0-6.r7/402
+count: 7
+text: 8 0 100 100 560c7e74c62ddd476a59a34b9b37fa76 - -
+props: 6 0 57 57 5226e9312d3263a00dd8aa4d03c7bbcf - 5-5/_3
+cpath: /branches/feature_branch
+copyroot: 6 /branches/feature_branch
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 14
+feature_branch
+V 16
+dir 0.0-6.r8/113
+END
+ENDREP
+id: 2-1.0.r8/438
+type: dir
+pred: 2-1.0.r7/728
+count: 6
+text: 8 379 46 46 40a4a5a5e88326ea7bb9511849357a9b - -
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 1
+
+PLAIN
+K 8
+branches
+V 16
+dir 2-1.0.r8/438
+K 4
+tags
+V 15
+dir 3-1.0.r1/66
+K 5
+trunk
+V 16
+dir 0-1.0.r1/129
+END
+ENDREP
+id: 0.0.r8/707
+type: dir
+pred: 0.0.r7/997
+count: 8
+text: 8 593 101 101 35dcc33e64425e9b969e2d889d7991d1 - -
+props: 4 523 57 57 5226e9312d3263a00dd8aa4d03c7bbcf - 3-3/_3
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+minfo-here: y
+
+2-3.0-7.r7/33 delete-file false false false /branches/feature_branch/test.txt
+
+
+707 927

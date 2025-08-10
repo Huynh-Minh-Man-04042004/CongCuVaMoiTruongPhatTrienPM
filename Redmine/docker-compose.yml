@@ -1,0 +1,29 @@
+services:
+  redmine:
+    image: redmine:latest
+    container_name: redmine_app
+    restart: always
+    ports:
+      - "3000:3000"
+    environment:
+      REDMINE_DB_MYSQL: db
+      REDMINE_DB_USERNAME: redmine
+      REDMINE_DB_PASSWORD: secret
+      REDMINE_DB_DATABASE: redmine
+    depends_on:
+      - db
+
+  db:
+    image: mysql:5.7
+    container_name: redmine_db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: redmine
+      MYSQL_USER: redmine
+      MYSQL_PASSWORD: secret
+    volumes:
+      - redmine-mysql:/var/lib/mysql
+
+volumes:
+  redmine-mysql:

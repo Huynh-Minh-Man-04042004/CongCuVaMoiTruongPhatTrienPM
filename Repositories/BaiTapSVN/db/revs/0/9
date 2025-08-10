@@ -1,0 +1,83 @@
+id: 2-9.0-6.r9/0
+type: file
+count: 0
+text: 7 0 20 8 e05c1d9f05f5b9eb56fe907c36f469d8 746365270ec1aee292e90de33df595d63eb7ce16 8-8/_4
+cpath: /branches/feature_branch/Hello.txt
+copyroot: 6 /branches/feature_branch
+
+PLAIN
+K 9
+Hello.txt
+V 17
+file 2-9.0-6.r9/0
+K 8
+branches
+V 15
+dir 2-1.0.r4/17
+K 4
+tags
+V 15
+dir 3-1.0.r1/66
+K 5
+trunk
+V 16
+dir 0-1.0.r1/129
+END
+ENDREP
+id: 0.0-6.r9/363
+type: dir
+pred: 0.0-6.r8/113
+count: 8
+text: 9 213 137 137 ccf4472851ff57fd6be8c1f1563e4f6c - -
+props: 6 0 57 57 5226e9312d3263a00dd8aa4d03c7bbcf - 5-5/_3
+cpath: /branches/feature_branch
+copyroot: 6 /branches/feature_branch
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 14
+feature_branch
+V 16
+dir 0.0-6.r9/363
+END
+ENDREP
+id: 2-1.0.r9/690
+type: dir
+pred: 2-1.0.r8/438
+count: 7
+text: 9 631 46 46 d2026875e1d2127d0b30dd78f21efffa - -
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 1
+
+PLAIN
+K 8
+branches
+V 16
+dir 2-1.0.r9/690
+K 4
+tags
+V 15
+dir 3-1.0.r1/66
+K 5
+trunk
+V 16
+dir 0-1.0.r1/129
+END
+ENDREP
+id: 0.0.r9/959
+type: dir
+pred: 0.0.r8/707
+count: 9
+text: 9 845 101 101 1c245bf2ac2129be2ca8c3e38509bd45 - -
+props: 4 523 57 57 5226e9312d3263a00dd8aa4d03c7bbcf - 3-3/_3
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+minfo-here: y
+
+_2.0-6.t8-8 add-file true false false /branches/feature_branch/Hello.txt
+
+
+959 1179

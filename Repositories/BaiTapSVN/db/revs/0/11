@@ -1,0 +1,80 @@
+id: 2-9.0-11.r11/0
+type: file
+pred: 2-9.0-6.r9/0
+count: 1
+text: 7 0 20 8 e05c1d9f05f5b9eb56fe907c36f469d8 746365270ec1aee292e90de33df595d63eb7ce16 8-8/_4
+cpath: /Hello.txt
+copyfrom: 10 /branches/feature_branch/Hello.txt
+
+id: 0.1-11.r11/221
+type: dir
+pred: 0.0-10.r10/0
+count: 10
+text: 9 213 137 137 ccf4472851ff57fd6be8c1f1563e4f6c - -
+props: 6 0 57 57 5226e9312d3263a00dd8aa4d03c7bbcf - 5-5/_3
+cpath: /branches/feature_branch
+copyfrom: 10 /branches/feature_branch/branches/feature_branch
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 14
+feature_branch
+V 18
+dir 0.1-11.r11/221
+END
+ENDREP
+id: 2-1.0.r11/578
+type: dir
+pred: 2-1.0.r10/1040
+count: 9
+text: 11 517 48 48 903eaf3c00ed1959ba50e4f9b8bbb060 - -
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 1
+
+PLAIN
+K 9
+Hello.txt
+V 19
+file 2-9.0-11.r11/0
+K 8
+branches
+V 17
+dir 2-1.0.r11/578
+K 4
+tags
+V 15
+dir 3-1.0.r1/66
+K 5
+trunk
+V 16
+dir 0-1.0.r1/129
+END
+ENDREP
+PLAIN
+K 13
+svn:mergeinfo
+V 33
+/branches/feature_branch:2-3,6-10
+END
+ENDREP
+id: 0.0.r11/966
+type: dir
+pred: 0.0.r10/1314
+count: 11
+text: 11 737 141 141 29f7cda028064c40d1cbe4d0045caaa7 - -
+props: 11 891 62 62 af43133c8d468a4e7e2cc3c6db2da6b4 - 10-a/_3
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+minfo-here: y
+
+0.0.t10-a modify-dir false true true /
+
+2-9._0.t10-a add-file false false false /Hello.txt
+10 /branches/feature_branch/Hello.txt
+0._1.t10-a replace-dir false false false /branches/feature_branch
+10 /branches/feature_branch/branches/feature_branch
+
+966 1193

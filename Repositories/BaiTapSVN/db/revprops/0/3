@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 3
+abc
+K 8
+svn:date
+V 27
+2025-02-26T08:17:03.953838Z
+K 7
+svn:log
+V 18
+Push file test.txt
+END

@@ -1,0 +1,103 @@
+id: 0.0-10.r10/0
+type: dir
+pred: 0.0-6.r9/363
+count: 9
+text: 9 213 137 137 ccf4472851ff57fd6be8c1f1563e4f6c - -
+props: 6 0 57 57 5226e9312d3263a00dd8aa4d03c7bbcf - 5-5/_3
+cpath: /branches/feature_branch/branches/feature_branch
+copyfrom: 9 /branches/feature_branch
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 14
+feature_branch
+V 16
+dir 0.0-10.r10/0
+END
+ENDREP
+id: 2-1.0-6.r10/351
+type: dir
+pred: 2-1.0.r4/17
+count: 4
+text: 10 292 46 46 cba3d119a9cd257add0830cb50058949 - -
+cpath: /branches/feature_branch/branches
+copyroot: 6 /branches/feature_branch
+minfo-cnt: 1
+
+PLAIN
+K 9
+Hello.txt
+V 17
+file 2-9.0-6.r9/0
+K 8
+branches
+V 19
+dir 2-1.0-6.r10/351
+K 4
+tags
+V 15
+dir 3-1.0.r1/66
+K 5
+trunk
+V 16
+dir 0-1.0.r1/129
+END
+ENDREP
+id: 0.0-6.r10/710
+type: dir
+pred: 0.0-6.r9/363
+count: 9
+text: 10 556 141 141 4659441973eff436fcf239cd7f2db75e - -
+props: 6 0 57 57 5226e9312d3263a00dd8aa4d03c7bbcf - 5-5/_3
+cpath: /branches/feature_branch
+copyroot: 6 /branches/feature_branch
+minfo-cnt: 2
+minfo-here: y
+
+PLAIN
+K 14
+feature_branch
+V 17
+dir 0.0-6.r10/710
+END
+ENDREP
+id: 2-1.0.r10/1040
+type: dir
+pred: 2-1.0.r9/690
+count: 8
+text: 10 980 47 47 c1e3981c2155980b923fd86070836c09 - -
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 2
+
+PLAIN
+K 8
+branches
+V 18
+dir 2-1.0.r10/1040
+K 4
+tags
+V 15
+dir 3-1.0.r1/66
+K 5
+trunk
+V 16
+dir 0-1.0.r1/129
+END
+ENDREP
+id: 0.0.r10/1314
+type: dir
+pred: 0.0.r9/959
+count: 10
+text: 10 1198 103 103 f413a37a1c7b3ac73fe76b4b0075f9dd - -
+props: 4 523 57 57 5226e9312d3263a00dd8aa4d03c7bbcf - 3-3/_3
+cpath: /
+copyroot: 0 /
+minfo-cnt: 3
+minfo-here: y
+
+0._0.t9-9 add-dir false false false /branches/feature_branch/branches/feature_branch
+9 /branches/feature_branch
+
+1314 1539
